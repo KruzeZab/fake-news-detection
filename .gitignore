@@ -1,0 +1,8 @@
+.vscode
+*.joblib
+node_modules/
+venv
+.venv
+__pycache__/
+Fake.csv
+True.csv
